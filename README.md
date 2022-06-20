@@ -1,4 +1,4 @@
-- 👋 <h1>Hi</h1>, I’m @Cauanz
+- 👋 <h1>Hi</h1>I’m @Cauanz
 - 👀 I’m interested in work with front-end
 - 🌱 I’m currently learning javascript, css and html
 - 💞️ I’m looking to collaborate on ...
