@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Cauan Z. !!! 😃
 
 
-[![ Cauan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&layout=compact)](https://github.com/Cauanz/github-readme-stats)
+[![Cauan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
                   ###  !!! Estou aprendendo !!!  ###
 
