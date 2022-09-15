@@ -20,4 +20,4 @@
 </div>
   
   
-  ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar, sonhando em ser profissional em programação!!! 
+  ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar meu conhecimento, sonhando em ser profissional em programação!!! 
