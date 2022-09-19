@@ -1,4 +1,4 @@
-### Olá, Eu sou o Cauan Z. !!! 😃
+### Olá, Eu sou o Cauan !!! 😃
 
 
 [![Cauan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
