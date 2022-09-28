@@ -1,23 +1,28 @@
-                                                             # Olá, Eu sou o Cauan !!! 😃
+<h1 align="center">Olá, Eu sou o Cauan !!! 😃</h1>
 
 
-[![Cauan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&layout=compact" />
 
-                                                             ##  !!! Estou aprendendo !!!
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cauanz&show_icons=true&theme=dracula"/>
 
-![Cauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauanz&show_icons=true&theme=dracula)
+<h2 align="center">!!! Estou aprendendo !!! 📖✍️</h2>
 
-### Estudando:
+<ul>
+  <li><img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><p>Atualmente aprendendo JavaScript</p></li>
+  <li><img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><p>Descobrindo o C#</p></li>
+  <li>👨‍💻Estudando para se tornar um desenvolvedor Front-End(Ou o que vier)</li>
+</ul>
 
-   <div style="display: inline-block;"><br> 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- </div>
-<div style="display: inline-block;"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div style="display: inline-block;"><br>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
+
+
+### Utilizando/Em contato👨‍💻👨‍💻:
+
+  <img align="left" alt="html5badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+  <img align="left" alt="css3badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <img align="left" alt="jsbadge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<br>
   
   
   ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar meu conhecimento, sonhando em ser profissional em programação!!! 
