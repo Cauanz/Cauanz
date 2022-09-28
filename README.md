@@ -1,10 +1,9 @@
-### Olá, Eu sou o Cauan !!! 😃
+# Olá, Eu sou o Cauan !!! 😃
 
 
 [![Cauan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-                                                             ###  !!! Estou aprendendo !!!  ###
-                                                             <br>
+                                                             ##  !!! Estou aprendendo !!!
 
 ![Cauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauanz&show_icons=true&theme=dracula)
 
