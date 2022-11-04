@@ -9,7 +9,6 @@
 
 <ul> <h2>Atualmente aprendendo:</h2>
   <li><img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></li>
-  <!--<li><img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><p>Descobrindo o C#</p></li>-->
   <li>👨‍💻Estudando para se tornar um desenvolvedor Front-End(Ou o que vier)</li>
 </ul>
 
