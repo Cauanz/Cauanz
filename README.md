@@ -13,6 +13,9 @@
   <li>👨‍💻Estudando para se tornar um desenvolvedor Front-End(Ou o que vier)</li>
 </ul>
 
+<ul> <h2>Planejo aprender:</h2>
+  <li><img align="left" src="" /></li>
+</ul> 
 
 
 ### Utilizando/Em contato com👨‍💻👨‍💻:
