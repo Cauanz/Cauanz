@@ -16,6 +16,7 @@
 <ul> <h2>Planejo aprender:</h2>
   <li><img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></li>
   <li><img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></li>
+  <li><img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
 </ul> 
 
 
@@ -28,5 +29,14 @@
   <img align="left" alt="jsbadge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <br>
+  
+  <h2 align="center">SO's que uso:</h2> 
+  <div align="center"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></div>
+  <div align="center"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></div>
+  <div align="center"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></div>
+  
+  <h2 align="center">Minhas redes:</h2>
+  <div align="center"><a href="https://www.linkedin.com/in/cauan-zelazowski-019371252/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
+  
   
   ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar meu conhecimento, sonhando em ser profissional em programação!!! 
