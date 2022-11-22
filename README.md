@@ -14,7 +14,8 @@
 </ul>
 
 <ul> <h2>Planejo aprender:</h2>
-  <li><img align="left" src="" /></li>
+  <li><img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></li>
+  <li><img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></li>
 </ul> 
 
 
@@ -25,7 +26,7 @@
   <img align="left" alt="css3badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   
   <img align="left" alt="jsbadge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
 <br>
-  
   
   ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar meu conhecimento, sonhando em ser profissional em programação!!! 
