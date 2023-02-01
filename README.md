@@ -1,13 +1,13 @@
 <h1 align="center">Olá, Eu sou o Cauan !!! 😃</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Futuro+Front-End+Web+Developer!!!;Cursando+Analise+e+Desenvolvimento+de+Sistemas!!!)](https://git.io/typing-svg)
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanz&layout=compact" />
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cauanz&show_icons=true&theme=dracula"/>
 
-<h2 align="center">!!! Estou aprendendo !!! 📖✍️</h2>
+<h2 align="center">!!! Estou aprendendo atualmente !!! 📖✍️</h2>
 
-<ul> <h2>Atualmente aprendendo:</h2>
   <li><img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></li>
   <br>
    <li><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
