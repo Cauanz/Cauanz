@@ -44,6 +44,8 @@
   
   <h2 align="center">Minhas redes:</h2>
   <div align="center"><a href="https://www.linkedin.com/in/cauan-zelazowski-019371252/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
+
+![](https://komarev.com/ghpvc/?username=Cauanz&style=for-the-badge)
   
   
   ### Facinado por tecnologia, Buscando sempre melhorar, aprender mais e aperfeiçoar meu conhecimento, sonhando em ser profissional em programação!!! 
