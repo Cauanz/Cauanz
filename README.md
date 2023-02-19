@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou o Cauan !!! 😃</h1>
+<h1 align="center">Hello, I'm Cauan !!! 😃</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Futuro+Front-End+Web+Developer!!!;Cursando+Analise+e+Desenvolvimento+de+Sistemas!!!)](https://git.io/typing-svg)
 
