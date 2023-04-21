@@ -15,7 +15,7 @@
    <li><img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
   <br>
   <li>👨‍💻Estudando para se tornar um desenvolvedor Front-End <br>
-  (Ou o que vier relacionado a TI que não precise de uma entrevista com pressão (porque tenho TEA))</li>
+  (Ou o que vier relacionado a TI que não precise de uma entrevista (porque tenho TEA))</li>
 </ul>
 
 <ul> <h2>Planejo aprender:</h2>
