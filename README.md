@@ -16,7 +16,7 @@
   <br>
     <li><img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
   <br>
-     <li><img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>FACULDADE</li>
+     <li><img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>BÁSICO</li>
   <br>
   <li>👨‍💻Estudando para se tornar um desenvolvedor Front-End <br>
   (Ou o que vier relacionado a TI que não precise de uma entrevista (porque tenho TEA))</li>
