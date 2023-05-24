@@ -14,7 +14,9 @@
   <br>
    <li><img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>BÁSICO/INTERMEDIARIO</li>
   <br>
-    <li><img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+    <li><img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>APRENDENDO</li>
+  <br>
+      <li><img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>APRENDENDO</li>
   <br>
      <li><img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>BÁSICO</li>
   <br>
