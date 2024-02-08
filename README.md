@@ -53,10 +53,10 @@
   
   <h2 align="center">[PT-BR] SO's que uso: | [EN-US] SO's i use:</h2> 
   <div align="center"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></div>
-  <div align="center"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></div>
+  <div align="center"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></div>
   
   <h2 align="center">[PT-BR] SO's que já usei: | [EN-US] SO's i've used:</h2> 
-  <div align="center"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></div>
+  <div align="center"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></div>
   <div align="center"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></div>
   
   <h2 align="center">[PT-BR] Minhas redes: | [EN-US] My social medias:</h2>
