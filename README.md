@@ -7,9 +7,9 @@
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cauanz&show_icons=true&theme=dracula"/>
 </div>
 <hr>
-<p align='center'>[PT-BR] Estou aprendendo e estudando programação desde 2021, sempre estive conectado com tecnologia desde minha infancia, mas nunca em programação, então embarquei nessa jornada, tenho desenvolvido alguns projetos pessoais usando as tecnologias abaixo que sei/estou aprendendo</p>
+<p align='center'>[PT-BR] Estou aprendendo e estudando programação desde 2023, sempre estive conectado com tecnologia desde minha infancia, mas nunca em programação, então embarquei nessa jornada, tenho desenvolvido alguns projetos pessoais usando as tecnologias abaixo que sei/estou aprendendo</p>
 
-<p align='center'>[EN-US] I'm learning and studying programming since 2021, I've always been connected with technology since my childhood, but never in programming, so I embarked on this journey, I've been developing some personal projects using the technologies below that I know/I'm learning</p>
+<p align='center'>[EN-US] I'm learning and studying programming since 2023, I've always been connected with technology since my childhood, but never in programming, so I embarked on this journey, I've been developing some personal projects using the technologies below that I know/I'm learning</p>
 
 <h2 align="center"> [PT-BR]📖✍️ !!! Estou aprendendo atualmente !!! 📖✍️</h2>
 <h2 align="center">[EN-US]📖✍️ !!! I'm learning !!! 📖✍️</h2>
